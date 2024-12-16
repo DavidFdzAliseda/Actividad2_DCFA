@@ -1,8 +1,9 @@
-package com.david.actividad2_dcfa;
+package com.david.actividad2_dcfa.Utils;
 
 import android.content.Context;
 
 import com.david.actividad2_dcfa.Model.CharacterModel;
+import com.david.actividad2_dcfa.R;
 
 import java.util.ArrayList;
 import java.util.List;

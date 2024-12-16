@@ -1,4 +1,4 @@
-package com.david.actividad2_dcfa;
+package com.david.actividad2_dcfa.Activity;
 
 import android.content.SharedPreferences;
 
@@ -18,7 +18,12 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.david.actividad2_dcfa.Adapter.CharacterAdapter;
+import com.david.actividad2_dcfa.Helper.DialogHelper;
+import com.david.actividad2_dcfa.Listener.CharacterClickListener;
 import com.david.actividad2_dcfa.Model.CharacterModel;
+import com.david.actividad2_dcfa.R;
+import com.david.actividad2_dcfa.Utils.CharacterUtils;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.snackbar.Snackbar;
 
@@ -79,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
             // Verificar si el SwitchCompat ha sido encontrado
             if (languageSwitch != null) {
                 // Configurar el estado inicial del Switch basado en el idioma guardado
-                String currentLanguage = sharedPreferences.getString("language", "en");
+                String currentLanguage = sharedPreferences.getString("language", "es");
                 languageSwitch.setChecked(currentLanguage.equals("en"));
 
                 // Configurar el listener para cambiar el idioma

@@ -1,4 +1,4 @@
-package com.david.actividad2_dcfa;
+package com.david.actividad2_dcfa.Adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,6 +9,7 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.david.actividad2_dcfa.Model.CharacterModel;
+import com.david.actividad2_dcfa.R;
 
 import java.util.List;
 

@@ -22,7 +22,7 @@
             <!-- Usamos SwitchCompat aquí -->
             <item
                 android:id="@+id/nav_switch_language"
-                android:title="Cambiar idioma"
+                android:title="@string/change_language"
                 app:actionViewClass="androidx.appcompat.widget.SwitchCompat" />
         </menu>
     </item>

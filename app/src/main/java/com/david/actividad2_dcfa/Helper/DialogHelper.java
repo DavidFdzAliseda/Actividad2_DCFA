@@ -1,6 +1,8 @@
-package com.david.actividad2_dcfa;
+package com.david.actividad2_dcfa.Helper;
 import androidx.appcompat.app.AlertDialog;
 import android.content.Context;
+
+import com.david.actividad2_dcfa.R;
 
 public class DialogHelper {
 

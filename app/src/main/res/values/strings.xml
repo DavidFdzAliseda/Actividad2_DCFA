@@ -46,4 +46,5 @@
     <!-- Toast -->
     <string name="toast">Se ha seleccionado el personaje\u00A0</string>
     <string name="listado_de_personajes">Listado de personajes</string>
+    <string name="change_language">Cambiar idioma</string>
 </resources>

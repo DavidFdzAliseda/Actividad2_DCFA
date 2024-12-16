@@ -1,4 +1,4 @@
-package com.david.actividad2_dcfa;
+package com.david.actividad2_dcfa.Helper;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;

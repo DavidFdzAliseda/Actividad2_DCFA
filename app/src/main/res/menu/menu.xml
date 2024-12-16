@@ -5,7 +5,7 @@
     <!-- Ítem del menú para "Acerca de..." -->
     <item
         android:id="@+id/menu_about"
-        android:title="Acerca de..."
+        android:title="@string/acerca"
         android:icon="@drawable/ic_info"
         app:showAsAction="ifRoom" />
 

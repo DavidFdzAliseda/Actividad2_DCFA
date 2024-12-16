@@ -1,10 +1,13 @@
-package com.david.actividad2_dcfa;
+package com.david.actividad2_dcfa.Listener;
 
 import android.content.Context;
 import android.content.Intent;
 import android.widget.Toast;
 
+import com.david.actividad2_dcfa.Adapter.CharacterAdapter;
+import com.david.actividad2_dcfa.Activity.CharacterDetailActivity;
 import com.david.actividad2_dcfa.Model.CharacterModel;
+import com.david.actividad2_dcfa.R;
 
 public class CharacterClickListener implements CharacterAdapter.OnItemClickListener {
 
