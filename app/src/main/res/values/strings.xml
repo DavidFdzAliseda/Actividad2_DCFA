@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="habilidades">Habilidades:\u00A0</string>
+    <string name="acerca">Acerca de...</string>
+    <string name="acerca_message">Aplicación desarrollada por David César Fernández Aliseda.\nVersión 1.0.</string>
+
+    <!-- Descripciones de personajes -->
+    <string name="mario_description">El fontanero más famoso del mundo.</string>
+    <string name="luigi_description">Hermano de Mario, también fontanero.</string>
+    <string name="peach_description">Princesa del Reino Champiñón.</string>
+    <string name="toad_description">Habitante del Reino Champiñón.</string>
+    <string name="yoshi_description">Dinosaurio amigo de Mario.</string>
+    <string name="bowser_description">Rey de los Koopas, enemigo de Mario.</string>
+    <string name="donkey_kong_description">El gorila más fuerte del Reino de los Muertos.</string>
+    <string name="wario_description">Rival de Mario, amante de las riquezas.</string>
+    <string name="waluigi_description">Rival de Luigi, compañero de Wario.</string>
+    <string name="koopa_troopa_description">Enemigo Koopa de Mario.</string>
+
+    <!-- Habilidades de personajes -->
+    <string name="mario_skills">Saltar, correr, super salto, nadar, lanzar, escalar</string>
+    <string name="luigi_skills">Salto alto, correr, super salto, salto doble, nadar, lanzar, escalar</string>
+    <string name="peach_skills">Flotar en el aire, saltar, golpe con paraguas, planeo</string>
+    <string name="toad_skills">Velocidad, resistencia, lanzar objetos</string>
+    <string name="yoshi_skills">Saltar, correr, lanzar huevos, comer enemigos, nadar</string>
+    <string name="bowser_skills">Saltar, correr, lanzar fuego, fuerza física, lanzar objetos pesados</string>
+    <string name="donkey_kong_skills">Fuerza, saltar, correr, lanzar barriles, escalar</string>
+    <string name="wario_skills">Correr, aplastar, salto, fuerza, lanzar objetos pesados</string>
+    <string name="waluigi_skills">Correr, saltar alto, agilidad, trampa, lanzar objetos</string>
+    <string name="koopa_troopa_skills">Correr, defenderse dentro del caparazón, lanzar caparazones</string>
+
+    <!-- Nombres de personajes -->
+    <string name="mario_name">Mario</string>
+    <string name="luigi_name">Luigi</string>
+    <string name="peach_name">Peach</string>
+    <string name="toad_name">Toad</string>
+    <string name="yoshi_name">Yoshi</string>
+    <string name="bowser_name">Bowser</string>
+    <string name="donkey_kong_name">Donkey Kong</string>
+    <string name="wario_name">Wario</string>
+    <string name="waluigi_name">Waluigi</string>
+    <string name="koopa_troopa_name">Koopa Troopa</string>
+
+    <!-- Snackbar -->
+    <string name="snackbar">Bienvenidos al mundo de Mario</string>
+    <!-- Toast -->
+    <string name="toast">Se ha seleccionado el personaje\u00A0</string>
+    <string name="listado_de_personajes">Listado de personajes</string>
+</resources>

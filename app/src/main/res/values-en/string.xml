@@ -1,0 +1,49 @@
+<resources>
+    <string name="ok">OK</string>
+    <string name="habilidades">Skills:\u00A0</string>
+    <string name="acerca">About...</string>
+    <string name="acerca_message">Application developed by David César Fernández Aliseda.\nVersion 1.0.</string>
+
+    <!-- Descripciones de personajes -->
+    <string name="mario_description">The most famous plumber in the world.</string>
+    <string name="luigi_description">Mario\'s brother, also a plumber.</string>
+    <string name="peach_description">Princess of the Mushroom Kingdom.</string>
+    <string name="toad_description">Resident of the Mushroom Kingdom.</string>
+    <string name="yoshi_description">Mario\'s dinosaur friend.</string>
+    <string name="bowser_description">King of the Koopas, Mario\'s enemy.</string>
+    <string name="donkey_kong_description">The strongest gorilla in the Dead Kingdom.</string>
+    <string name="wario_description">Mario\'s rival, lover of riches.</string>
+    <string name="waluigi_description">Luigi\'s rival, Wario\'s partner.</string>
+    <string name="koopa_troopa_description">Koopa enemy of Mario.</string>
+
+    <!-- Habilidades de personajes -->
+    <string name="mario_skills">Jump, run, super jump, swim, throw, climb</string>
+    <string name="luigi_skills">High jump, run, super jump, double jump, swim, throw, climb</string>
+    <string name="peach_skills">Float in the air, jump, umbrella hit, glide</string>
+    <string name="toad_skills">Speed, endurance, throw objects</string>
+    <string name="yoshi_skills">Jump, run, throw eggs, eat enemies, swim</string>
+    <string name="bowser_skills">Jump, run, throw fire, physical strength, throw heavy objects</string>
+    <string name="donkey_kong_skills">Strength, jump, run, throw barrels, climb</string>
+    <string name="wario_skills">Run, crush, jump, strength, throw heavy objects</string>
+    <string name="waluigi_skills">Run, jump high, agility, trap, throw objects</string>
+    <string name="koopa_troopa_skills">Run, defend inside the shell, throw shells</string>
+
+    <!-- Nombres de personajes -->
+    <string name="mario_name">Mario</string>
+    <string name="luigi_name">Luigi</string>
+    <string name="peach_name">Peach</string>
+    <string name="toad_name">Toad</string>
+    <string name="yoshi_name">Yoshi</string>
+    <string name="bowser_name">Bowser</string>
+    <string name="donkey_kong_name">Donkey Kong</string>
+    <string name="wario_name">Wario</string>
+    <string name="waluigi_name">Waluigi</string>
+    <string name="koopa_troopa_name">Koopa Troopa</string>
+
+    <!-- Snackbar -->
+    <string name="snackbar">Welcome to the world of Mario</string>
+    <!-- Toast -->
+    <string name="toast">The chosen character is\u00A0</string>
+
+    <string name="listado_de_personajes">Character List</string>
+</resources>

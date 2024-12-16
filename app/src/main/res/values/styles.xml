@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo para el ConstraintLayout -->
+    <style name="CharacterDetailLayoutStyle">
+        <item name="android:padding">16dp</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+
+    <!-- Estilo para el TextView del nombre del personaje -->
+    <style name="DetailNameTextStyle">
+        <item name="android:textColor">@color/textColorPrimary</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item> <!-- Negrita -->
+    </style>
+
+    <!-- Estilo para el TextView de la descripción del personaje -->
+    <style name="DetailDescriptionTextStyle">
+        <item name="android:textColor">@color/textColorSecondary</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">italic</item> <!-- Cursiva -->
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Estilo para el TextView de las habilidades del personaje -->
+    <style name="DetailSkillsTextStyle">
+        <item name="android:textColor">@color/textColorAccent</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <!-- Estilo para la imagen -->
+    <style name="DetailImageStyle">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+    </style>
+    <!-- Estilo para el boton -->
+    <style name="DetailBackButtonStyle">
+        <!-- Cambiar color del texto -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Color negro para el texto -->
+    </style>
+
+    <!-- Estilo Listado Personajes -->
+    <!-- Estilo para el CardView -->
+    <style name="CharacterCardStyle">
+        <item name="android:layout_margin">8dp</item> <!-- Margen alrededor del CardView -->
+        <item name="android:elevation">4dp</item> <!-- Elevación para el CardView -->
+    </style>
+
+    <!-- Estilo para el LinearLayout dentro del CardView -->
+    <style name="CharacterCardLinearLayoutStyle">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">16dp</item> <!-- Espaciado interno del LinearLayout -->
+    </style>
+
+    <!-- Estilo para el ImageView (para el avatar del personaje) -->
+    <style name="CharacterImageStyle">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:src">@drawable/ic_launcher_background
+        </item> <!-- Imagen predeterminada -->
+    </style>
+
+    <!-- Estilo para el TextView del nombre del personaje -->
+    <style name="CharacterNameTextStyle">
+        <item name="android:textSize">22sp</item> <!-- Tamaño del texto -->
+        <item name="android:textColor">@color/textColorPrimary</item> <!-- Color del texto -->
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:textStyle">bold</item> <!-- Negrita -->
+        <item name="android:layout_gravity">center_vertical</item> <!-- Centrar verticalmente -->
+    </style>
+</resources>
+

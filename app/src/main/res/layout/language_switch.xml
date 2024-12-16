@@ -1,0 +1,9 @@
+<androidx.appcompat.widget.SwitchCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/language_switch"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Cambiar idioma"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp" />
+

@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Opción Home -->
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+
+    <!-- Opción Ajustes -->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Ajustes"
+        android:icon="@drawable/ic_settings" />
+
+    <!-- Opción Idioma -->
+    <item
+        android:id="@+id/nav_language"
+        android:title="Idioma"
+        android:icon="@drawable/ic_language">
+        <menu>
+            <!-- Usamos SwitchCompat aquí -->
+            <item
+                android:id="@+id/nav_switch_language"
+                android:title="Cambiar idioma"
+                app:actionViewClass="androidx.appcompat.widget.SwitchCompat" />
+        </menu>
+    </item>
+
+</menu>
